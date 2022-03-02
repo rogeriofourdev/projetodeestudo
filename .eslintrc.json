@@ -1,0 +1,6 @@
+{
+    "extends": "stamdard-wth-typescript",
+    "parserOptions": {
+        "project": "./tsconfig.json"
+    }
+}
