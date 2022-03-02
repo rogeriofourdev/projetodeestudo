@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rogeriofourdev/projetodeestudo/issues"
   },
-  "homepage": "https://github.com/rogeriofourdev/projetodeestudo#readme"
+  "homepage": "https://github.com/rogeriofourdev/projetodeestudo#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
 }
